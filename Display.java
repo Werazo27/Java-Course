@@ -3,3 +3,11 @@ public class Display {
       System.out.println("Hello world");
   }
 }
+
+//Single line comment
+
+/*
+Multi
+Line
+Comment
+ */

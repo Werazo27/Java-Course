@@ -19,6 +19,13 @@ public class Display {
     System.out.println(isLoggedIn);
     System.out.println(5<10);
     System.out.println(5>10);
+
+    //Addition
+    int numOne, numTwo, result;
+    numOne = 8;
+    numTwo = 3;
+    result = numOne + numTwo;
+    System.out.println(result);
   }
 
 }
